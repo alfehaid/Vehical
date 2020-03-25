@@ -1,0 +1,21 @@
+{
+	"DATA_FILE": "data.csv",
+	"STEPS": 10,
+
+	"X_MIN": 0,
+	"X_MAX": 1000,
+	"Y_MIN": 0,
+	"Y_MAX": 1000,
+
+	"V_MIN": 0,
+	"V_MAX": 180,
+
+	"POP_SIZE": 250,
+
+	"PCT_NORMAL": 0.20,
+
+	"PCT_MVFL": 0.25,
+	"PCT_SVFL": 0.25,
+	"PCT_SPFL": 0.25,
+	"PCT_MPFL": 0.25
+}
